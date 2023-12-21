@@ -1,2 +1,2 @@
-# kikuri-de
+# kikurice
 An Arch Linux build themed around best girl, Kikuri Hiroi!
