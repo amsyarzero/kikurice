@@ -38,3 +38,5 @@ Each window manager in the list will be linked to its respective document that c
 <sup>A</sup> Arch User Repository (AUR)
 
 <sup>F</sup> Flatpak
+
+*NOTE: This repo does not endorse alcohol or alcoholism.*
