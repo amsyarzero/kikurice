@@ -8,9 +8,9 @@
 
 ######################################
 # Color variables
-background="#1e1e2e"
-text="#cdd6f4"
-subtext="#6c7086"
-highlight="#f5c2e7"
-error="#f38ba8"
+background="#1E1E2E"
+text="#CDD6F4"
+subtext="#6C7086"
+highlight="#F5C2E7"
+error="#F38BA8"
 ######################################
