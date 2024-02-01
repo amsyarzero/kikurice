@@ -8,17 +8,13 @@
 # Note: that as of now you need to have all options in the selected
 # configuration file. Otherwise Lemurs will not work.
 
-# Predefined colors from original config.toml:
-# - black
-# - white
-# - (dark) gray
-# - (light) red
-# - (light) blue
-# - (light) green
-# - (light) magenta
-# - (light) cyan
-# - (light) yellow
-# - orange
+# Values imported from variables.toml:
+# - background
+# - text
+# - subtext
+# - highlight
+# - error
+# Note: put a $ before the variable name to call the variable (e.g. ""$background")
 
 # Text modifiers:
 # - bold
@@ -28,14 +24,6 @@
 # - reverse
 # - crossed out
 # - hidden
-
-# Values imported from variables.toml:
-# - background
-# - text
-# - subtext
-# - highlight
-# - error
-# Note: put a $ before the variable name to call the variable (e.g. ""$background")
 ######################################
 
 ######################################
@@ -243,7 +231,7 @@ neighbour_margin = 1
 
 # Selected's color and modifiers whilst the selector is unfocused
 selected_color = "$text"
-selected_modifiers = "underlined"
+selected_modifiers = ""
 
 # Selected's color and modifiers whilst the selector is focused
 selected_color_focused = "$highlight"
@@ -253,7 +241,7 @@ selected_modifiers_focused = "bold"
 max_display_length = 8
 
 # The text used when no desktop environments are available
-no_envs_text = "No environments..."
+no_envs_text = "No environments found."
 
 # The color and modifiers of the 'no desktop environments available text'
 # whilst the selector is unfocused
