@@ -40,3 +40,5 @@ Each window manager in the list will be linked to its respective document that c
 <sup>F</sup> Flatpak
 
 *NOTE: This repo does not endorse alcohol or alcoholism.*
+
+Kikurice by amsyarzero ![Kikuri Hiroi](https://github.com/amsyarzero/kikurice/assets/81513934/961f9669-286c-450b-98ff-47357aa68d57)
