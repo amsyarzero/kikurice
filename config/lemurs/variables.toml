@@ -4,13 +4,25 @@
 # |/__\|/__\|/__\|/__\|/__\|/__\|
 
 # variables.toml file
-# based on Catppuccin Mocha
 
 ######################################
 # Color variables
-background="#1E1E2E"
-text="#CDD6F4"
-subtext="#6C7086"
-highlight="#F5C2E7"
-error="#F38BA8"
+
+# The only supported colors in tty:
+# - black
+# - white
+# - (dark) gray
+# - (light) red
+# - (light) blue
+# - (light) green
+# - (light) magenta
+# - (light) cyan
+# - (light) yellow
+# - orange
+
+background="black"
+text="white"
+subtext="gray"
+highlight="light magenta"
+error="red"
 ######################################
