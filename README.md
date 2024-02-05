@@ -19,6 +19,8 @@ Each window manager in the list will be linked to its respective document that c
 ## What are the core apps
 *NOTE: As the name suggests, these are core dependencies of Kikurice. If you want to use alternatives, do so at your own risk.*
 
+Info on how to implement Kikurice's dotfiles are shown in [this wiki page](https://github.com/amsyarzero/kikurice/wiki/Applications).
+
 <table>
   <tr>
     <th><b>Core apps (alphabetical)</b></th>
