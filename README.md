@@ -17,9 +17,9 @@ So far, here are the window managers that Kikurice supports:
 Each window manager in the list will be linked to its respective document that contains related instructions and whatnot. The list is not concrete; I may add more if needed.
 
 ## What are the core apps
-*NOTE: As the name suggests, these are core dependencies of Kikurice. If you want to use alternatives, do so at your own risk.*
+*NOTE: These are core dependencies of Kikurice. If you want to use alternatives, do so at your own risk.*
 
-Info on how to implement Kikurice's dotfiles are shown in [this wiki page](https://github.com/amsyarzero/kikurice/wiki/Applications).
+Info on how to implement Kikurice's dotfiles for these apps are shown in [this wiki page](https://github.com/amsyarzero/kikurice/wiki/Applications).
 
 <table>
   <tr>
@@ -79,6 +79,10 @@ Info on how to implement Kikurice's dotfiles are shown in [this wiki page](https
     <td>Status bar</td>
     <td align="center"><code>polybar</code></td>
     <td align="center"><code>waybar</code></td>
+  </tr>
+  <tr>
+    <td>System info</td>
+    <td colspan="2" align="center"><code>neofetch</code></td>
   </tr>
   <tr>
     <td>System monitor</td>
