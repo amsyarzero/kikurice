@@ -88,6 +88,10 @@ Info on how to implement Kikurice's dotfiles are shown in [this wiki page](https
     <td>Terminal</td>
     <td colspan="2" align="center"><code>wezterm</code></td>
   </tr>
+    <tr>
+    <td>Text editor</td>
+      <td colspan="2" align="center"><code>helix</code></td>
+  </tr>
   <tr>
     <td>Wallpaper setter</td>
     <td align="center"><code>feh</code></td>
