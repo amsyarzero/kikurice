@@ -4,7 +4,7 @@
 --|/__\|/__\|/__\|/__\|/__\|/__\|/__\|
 
 -- .wezterm.lua file
--- Based on Catppuccin Mocha
+-- Based on Catppuccin Mocha by Pocco81, LudoPinelli, winston, and wez
 -- Dependencies: FiraCode Nerd Font
 
 -- Pull wezterm API
