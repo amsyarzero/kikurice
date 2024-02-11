@@ -1,0 +1,66 @@
+#  ____ ____ ____ ____ ____ 
+# ||d |||u |||n |||s |||t ||
+# ||__|||__|||__|||__|||__||
+# |/__\|/__\|/__\|/__\|/__\|
+
+# dunstrc config
+# Based on Catppuccin Mocha by Sanjay Pavan & elkrien, and parts of fwsmit's dunstrc
+# Code style inspired by MCotocel's dunstrc
+
+# Global section (affects all notifications)
+[global]
+
+	# notifications spawn on current monitor
+	follow = mouse
+
+	# spawn notification 50 pixels from top
+	offset = 0x50
+
+	# corner radius of dunst
+	corner_radius = 10
+
+	# background color
+	background = "#1E1E2E"
+
+	# font and font size
+	font = "CaskaydiaCove Nerd Font 9"
+
+	# notification frame width
+	frame_width = 2
+
+	# align text horizontally
+	alignment = center
+
+	# align text vertically
+	vertical_alignment = center
+
+	# browser that dunst launches
+	# replace "flatpak run..." with the preferred command of your browser
+	browser = flatpak run com.vivaldi.Vivaldi
+
+# Urgency low section
+[urgency_low]
+
+	# notification frame color
+	frame_color = "#89DCEB"
+	
+	# text color
+	foreground = "#89DCEB"
+
+# Urgency normal section
+[urgency_normal]
+
+	# notification frame color
+	frame_color = "#F5C2E7"
+	
+	# text color
+	foreground = "#F5C2E7"
+
+# Urgency critical section
+[urgency_critical]
+
+	# notification frame color
+	frame_color = "#F38BA8"
+	
+	# text color
+	foreground = "#F38BA8"
