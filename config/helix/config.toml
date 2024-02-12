@@ -1,0 +1,38 @@
+#  ____ ____ ____ ____ ____ 
+# ||h |||e |||l |||i |||x ||
+# ||__|||__|||__|||__|||__||
+# |/__\|/__\|/__\|/__\|/__\|
+
+# config.toml
+
+# Use Kikurice theme
+theme ="kikurice"
+
+# Editor section
+[editor]
+
+  # Calculate line number based on distance from current line
+  line-number = "relative"
+
+  # Change mode indicator color based on the mode
+  color-modes = true
+
+# Editor cursor shape section
+[editor.cursor-shape]
+
+  # Specify different cursor shapes for insert, normal, and select mode respectively
+  insert = "bar"
+  normal = "block"
+  select = "underline"
+
+# Editor soft wrap text section
+[editor.soft-wrap]
+
+  # enable soft wrap
+  enable = true
+
+# Editor smart tab section
+[editor.smart-tab]
+
+  # disable smart tab
+  enable = false
