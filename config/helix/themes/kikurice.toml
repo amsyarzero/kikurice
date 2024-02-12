@@ -1,0 +1,16 @@
+#  ____ ____ ____ ____ ____ 
+# ||h |||e |||l |||i |||x ||
+# ||__|||__|||__|||__|||__||
+# |/__\|/__\|/__\|/__\|/__\|
+
+# kikurice.toml file
+# Based on Catppuccin Mocha by Spaxly
+
+# inherit Catppuccin Mocha
+inherits = "catppuccin_mocha"
+
+# Change base, mantle, and crust color to pink
+[palette]
+base = "#2e1e2e"
+mantle = "#251825"
+crust = "#1c121c"
