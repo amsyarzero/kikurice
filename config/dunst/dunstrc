@@ -23,7 +23,12 @@
 	background = "#1E1E2E"
 
 	# font and font size
-	font = "CaskaydiaCove Nerd Font 9"
+	font = "CaskaydiaCove Nerd Font 11"
+
+	# message format
+	# possible variables: %a (appname), %s (summary), %b (body), %i (icon name with path), %I (icon name without path), %p (progress value)
+	# markup is allowed
+	format = "<b>%s</b>\n%b"
 
 	# notification frame width
 	frame_width = 2
